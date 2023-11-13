@@ -30,7 +30,7 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Virtual Re
 - LinkedIn: [Mario Gallego Cano](https://www.linkedin.com/in/mario-gallego-cano-b612a319b/)
 - Email: mariogallegocano@gmail.com
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mario-gallego-cano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/mario-gallego-cano?trk=profile-badge">Mario Gallego Cano</a></div>
               
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://git.io/typing-svg)
