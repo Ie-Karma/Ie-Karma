@@ -31,11 +31,8 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Virtual Re
 - Email: mariogallegocano@gmail.com
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%8E%AE+Latest+VR+Experience)](https://git.io/typing-svg)
----
-- [PlumVR](https://github.com/Espaci0EnBlanco/PlumVR): VR tool for professional plumbing learning.
-
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mario-gallego-cano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/mario-gallego-cano?trk=profile-badge">Mario Gallego Cano</a></div>
+              
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://git.io/typing-svg)
 ---
 [![Mario Gallego Cano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ie-Karma&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/Ie-Karma/github-readme-stats)
