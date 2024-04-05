@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Mario+%F0%9F%98%8E)](https://git.io/typing-svg)
 ---
 
-I'm Mario Gallego Cano, a passionate Software Engineer specialized in Virtual Reality (VR), Graphic Programming, Immersive Systems, and Simulation. I'm dedicated to creating captivating experiences and pushing the boundaries of immersive technologies.
+I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game programming, Graphic Programming, Immersive Systems, and Simulation.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
 ---
-- Software Engineering student at U-tad University
-- Pursuing a Master's degree in Computer Graphics, Virtual Reality, and Simulation with a focus on VR development
+- Software Engineer
+- Master's degree in Computer Graphics and Simulation
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%99%EF%B8%8F+Skills+and+Technologies)](https://git.io/typing-svg)
