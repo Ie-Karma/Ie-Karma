@@ -33,5 +33,5 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Virtual Re
               
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://git.io/typing-svg)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ie-Karma&hide_progress=false&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/Ie-Karma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ie-Karma&hide_progress=false&show_icons=true&theme=highcontrast&count_private=true&layout=compact)](https://github.com/Ie-Karma/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Ie-Karma&show_icons=true&theme=highcontrast&count_private=true&progress=true&hide_rank=true&rank_icon=percentile)
