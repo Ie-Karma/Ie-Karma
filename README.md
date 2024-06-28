@@ -22,6 +22,7 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://media.sidefx.com/uploads/company/press/logos/houdini_badge_flat.svg" alt="houdini" width="40" height="40"/>
 </p>
 
 
