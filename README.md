@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Mario+%F0%9F%98%8E)](https://git.io/typing-svg)
 ---
 
-I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game programming, Graphic programming, Immersive Systems, and Simulation.
+I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and graphic programming, Unreal Engine, VFX, and Simulation.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+Education)](https://git.io/typing-svg)
