@@ -15,7 +15,7 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%99%EF%B8%8F+Skills+and+Technologies)](https://git.io/typing-svg)
 ---
 <p align="left">
-  <img src="[https://magicmedia.studio/wp-content/uploads/2021/08/icons_unreal_250x250.png](https://cms-assets.unrealengine.com//1apgNGiXQCy67NbFZw2R?width=828)" alt="unreal" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="houdini" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="70" height="70"/>
