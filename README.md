@@ -14,20 +14,11 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%99%EF%B8%8F+Skills+and+Technologies)](https://git.io/typing-svg)
 ---
-<div style="background-color: white; border-radius: 15px; padding: 10px; display: inline-block;">
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="houdini" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="70" height="70" style="border-radius: 10px;"/>
-  <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70" style="border-radius: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70" style="border-radius: 10px;"/>
-  </p>
-</div>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,blender,py,github,visualstudio,c,cs,cpp,clion,rider,pycharm&perline=6" height="150"/>
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://git.io/typing-svg)
 ---
