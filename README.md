@@ -22,10 +22,19 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://git.io/typing-svg)
 ---
-- LinkedIn: [Mario Gallego Cano](https://www.linkedin.com/in/mario-gallego-cano/)
-- Email: mariogallegocano@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/mario-gallego-cano/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=6" height="75"/>
+  </a>
+  <a href="mailto:mariogallegocano@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=6" height="75"/>
+  </a>
+</p>
+<p>
+  LinkedIn: <a href="https://www.linkedin.com/in/mario-gallego-cano/" target="_blank">https://www.linkedin.com/in/mario-gallego-cano/</a><br>
+  Email: <a href="mailto:mariogallegocano@gmail.com">mariogallegocano@gmail.com</a>
+</p>
 
-              
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://git.io/typing-svg)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ie-Karma&hide_progress=false&show_icons=true&theme=highcontrast&count_private=true&layout=donut)](https://github.com/Ie-Karma/github-readme-stats)
