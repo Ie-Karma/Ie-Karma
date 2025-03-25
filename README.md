@@ -35,6 +35,18 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
   Email: <a href="mailto:mariogallegocano@gmail.com">mariogallegocano@gmail.com</a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Important+Links)](https://git.io/typing-svg)
+---
+<p align="left">
+  <a href="https://www.fab.com/sellers/Mario-GC" target="_blank">
+    <img src="https://static.fab.com/static/builds/web/dist/frontend/assets/images/common/logo/e1e12dc6142410b391ce48e416261ad7-v1.svg" height="75"/>
+  </a>
+</p>
+
+- **Fab Store** (Unreal Engine plugins and content): [Visit Store](https://www.fab.com/sellers/Mario-GC)
+- **The Rookies Profile** (Projects and collaborations): [Visit Profile](https://www.therookies.co/u/MarioGC)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://git.io/typing-svg)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ie-Karma&hide_progress=false&show_icons=true&theme=highcontrast&count_private=true&layout=donut)](https://github.com/Ie-Karma/github-readme-stats)
