@@ -17,6 +17,7 @@ I'm Mario Gallego Cano, a passionate Software Engineer specialized in Game and g
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unreal,unity,blender,py,github,visualstudio,c,cs,cpp,clion,rider,pycharm&perline=6" height="150"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" height="70"/>
   </a>
 </p>
 
